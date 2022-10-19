@@ -1,0 +1,4 @@
+20220921	11:52:37	3a209e9d-e721-4610-a505-078a6067d8ea	TypeError: authHeader?.StartsWith is not a function
+20220921	11:54:18	e686cff4-dba5-4205-ad25-f8d31535ff2f	TypeError: Cannot read properties of undefined (reading 'username')
+20220921	11:56:57	9e8524e0-51f2-421e-bad8-dbb1c0edb56f	TypeError: Cannot read properties of undefined (reading 'username')
+20220921	12:30:53	e9e328ef-fa6e-4cfd-8c0b-ff4e943b88e7	TypeError: rolesArray is not a function
